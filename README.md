@@ -1,0 +1,2 @@
+I decided to create two Spotify screens because in the previous challenge I wasn’t able to make a working play–pause button or a progress bar. I also decided to add a new feature: a sleep timer (which is also connected to the previous challenge, since I couldn’t get the song to stop on its own).
+Spotify actually already has a sleep timer, but it uses preset durations. Instead, I wanted to build a fully customizable timer where you can choose the exact number of minutes after which the song should stop playing.
